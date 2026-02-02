@@ -32,8 +32,7 @@ Steps include:
    - compare averages across official vs independent sources  
    - identify systematic differences in thematic emphasis as evidence of framing bias  
 # Expected Outputs
-Cleaned text corpus  
-- CSV file with thematic frequency scores per document  
+Cleaned text corpus   
 - Summary statistics comparing official and independent sources  
 - Visualisations showing differences in thematic emphasis  
 - A short written interpretation connecting quantitative findings to Indigenous community impacts and how they were reported across official documents compared to independent documents.
