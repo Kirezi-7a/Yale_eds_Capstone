@@ -1,7 +1,7 @@
 # Yale_eds_Capstone
 Capstone project for Yale EDS Online Program, analysing environmental change using text data for quantitative analysis
 # Project Title
-Understanding how land-based carbon projects impact indigenous communities is reported in official project documentation vs independent media 
+Understanding how Forest and land-based carbon projects' impact on indigenous communities is reported across different documentations
 # Research Question
 What are the thematic differences in how carbon credits and community impacts are discussed in official project documentation vs independent reporting for the Northern Kenya Rangelands Carbon Project?
 # Data
